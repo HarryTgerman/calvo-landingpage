@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="487px" height="372px" viewBox="0 0 487 372" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 24</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="67.5252177%" y1="50%" x2="11.2716244%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.92017663" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="67.5252177%" y1="50%" x2="10.0053244%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.92017663" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-41.5%" y="-31.8%" width="183.0%" height="164.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.192156863   0 0 0 0 0.521568627   0 0 0 0 0.988235294  0 0 0 0.383576766 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M18.7804878,42.4516574 L18.7804878,110.871015 C18.7804878,120.531359 22.9200934,129.728621 30.1512591,136.134282 L74.6797606,175.579439 L120.813206,135.995585 C128.173185,129.680506 132.460959,120.50455 132.583227,110.807407 L133.444659,42.4876678 C133.461641,41.1407508 132.754913,39.8882022 131.593222,39.2063307 C111.530376,27.4301476 93.019361,21.5420561 76.060177,21.5420561 C59.0937864,21.5420561 40.6156843,27.4351529 20.6258706,39.2213465 L20.6258673,39.221341 C19.4823352,39.895579 18.7804878,41.124155 18.7804878,42.4516574 Z" id="path-4"></path>
+        <filter x="-22.0%" y="-13.8%" width="144.1%" height="134.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="8.203125" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="8.203125" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.184386322 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-6" cx="75.597561" cy="88.6028037" rx="21.597561" ry="21.6028037"></ellipse>
+        <filter x="-94.9%" y="-85.6%" width="289.8%" height="289.8%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.203153306 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-18.7%" y="-178.6%" width="137.3%" height="457.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="12.5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landingpage" transform="translate(-178.000000, -7565.000000)">
+            <g id="Group-24" transform="translate(178.000000, 7588.000000)">
+                <text id="10010101101010101101" font-family="Heebo-Regular, Heebo" font-size="16" font-weight="normal" fill="#132840">
+                    <tspan x="11" y="46">1001010110101010110101001001001001000010101010101110</tspan>
+                </text>
+                <text id="10010101101010101101-copy-2" font-family="Heebo-Regular, Heebo" font-size="16" font-weight="normal" fill="#132840">
+                    <tspan x="2" y="190">1001010110101010110101001001001001000010101010101110</tspan>
+                </text>
+                <text id="10010101101010101101" font-family="Heebo-Regular, Heebo" font-size="16" font-weight="normal" fill="#132840">
+                    <tspan x="1" y="94">1001010110101010110101001001001001000010101010101110</tspan>
+                </text>
+                <text id="10010101101010101101-copy" font-family="Heebo-Regular, Heebo" font-size="16" font-weight="normal" fill="#132840">
+                    <tspan x="10" y="142">1001010110101010110101001001001001000010101010101110</tspan>
+                </text>
+                <text id="11010010100011110001" font-family="Heebo-Regular, Heebo" font-size="16" font-weight="normal" fill="#132840">
+                    <tspan x="16" y="70">110100101000111100011100100101010101000100101010101</tspan>
+                </text>
+                <text id="11010010100011110001-copy" font-family="Heebo-Regular, Heebo" font-size="16" font-weight="normal" fill="#132840">
+                    <tspan x="17" y="166">110100101000111100011100100101010101000100101010101</tspan>
+                </text>
+                <text id="11010101100001110101" font-family="Heebo-Regular, Heebo" font-size="16" font-weight="normal" fill="#132840">
+                    <tspan x="19" y="118">1101010110000111010101011011011010110100010101010100</tspan>
+                </text>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" x="0" y="11" width="176" height="198"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-2)" fill-rule="nonzero" transform="translate(331.500000, 110.000000) scale(-1, 1) translate(-331.500000, -110.000000) " x="176" y="11" width="311" height="198"></rect>
+                <g id="Group-3" filter="url(#filter-3)" transform="translate(167.000000, 3.000000)" fill-rule="nonzero">
+                    <g id="Group">
+                        <path d="M75,99.3926499 L75,100.114654 C75,100.265982 75.0760614,100.407178 75.2024302,100.490432 L75.9758868,101 L76.7796391,100.487097 C76.9068852,100.405897 76.9849437,100.266308 76.9875024,100.115382 L76.999764,99.3958125 C77.0013521,99.3021386 76.9447446,99.2172783 76.8576464,99.1827641 C76.5501708,99.0609214 76.264284,99 75.9999861,99 C75.7350552,99 75.4490107,99.0612135 75.1418527,99.1836404 L75.1417936,99.1834921 C75.0561746,99.2176181 75,99.3004805 75,99.3926499 Z" id="Path" fill="#87A269"></path>
+                        <path d="M0.126570564,37.9755958 L0.126570564,114.999438 C0.126570564,128.085804 5.82323119,140.523946 15.7318572,149.072167 L74.3768786,199.66552 L135.160296,148.873674 C145.235882,140.454312 151.131671,128.054276 151.301651,114.92514 L152.294947,38.2035281 C152.405829,29.6391426 147.644549,21.754589 140.013315,17.8654682 C117.170485,6.22403175 95.9028692,0.403313517 76.2104686,0.403313517 C56.4687196,0.403313517 35.1860893,6.25324132 12.3625778,17.9530969 L12.362578,17.9530974 C4.85103235,21.803688 0.126570564,29.5346026 0.126570564,37.9755958 Z" id="Path" fill="#3185FC"></path>
+                        <g id="Path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use stroke="#F3F5F8" stroke-width="16.40625" xlink:href="#path-4"></use>
+                        </g>
+                        <g id="Oval">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                            <use fill="#F3F5F8" xlink:href="#path-6"></use>
+                        </g>
+                        <g id="check" transform="translate(70.487805, 81.532710)" fill="#3185FC">
+                            <g id="lock-security">
+                                <path d="M9.62735302,5.62011486 L8.93146564,5.62011486 L8.93146564,3.16654994 C8.93146564,1.420367 7.39213359,0 5.49969638,0 C3.60725918,0 2.06762352,1.42064715 2.06762352,3.16654994 L2.06762352,5.62011486 L1.37234336,5.62011486 C0.615732818,5.62011486 0,6.18854181 0,6.88667881 L0.607231576,12.7328758 C0.607231576,13.4318532 1.22296439,14 1.97957494,14 L9.02012145,14 C9.77673199,14 10.3927684,13.4318532 10.3927684,12.7328758 L11,6.88667881 C11,6.18882196 10.3839636,5.62011486 9.62735302,5.62011486 Z M6.21835495,11.9501331 L4.78194866,11.9501331 L4.51142699,9.84171453 C4.51142699,9.33856282 4.95409881,8.93010226 5.49908915,8.93010226 C6.04499034,8.93010226 6.48796577,9.33856282 6.48796577,9.84171453 L6.21835495,11.9501331 Z M7.46166161,5.62011486 L3.53742755,5.62011486 L3.53742755,3.16654994 C3.53742755,2.16809077 4.41760972,1.3559322 5.49969638,1.3559322 C6.58208667,1.3559322 7.46166161,2.16809077 7.46166161,3.16654994 L7.46166161,5.62011486 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <ellipse id="Oval" fill="#000000" fill-rule="nonzero" opacity="0.0867978051" filter="url(#filter-8)" cx="239.5" cy="307.5" rx="100.5" ry="10.5"></ellipse>
+                <circle id="Oval-Copy-4" stroke="#593DFF" fill-rule="nonzero" cx="165.5" cy="3.5" r="3.5"></circle>
+                <circle id="Oval-Copy-5" stroke="#593DFF" fill-rule="nonzero" cx="336.5" cy="163.5" r="3.5"></circle>
+                <polygon id="Star" fill="#C5FF85" fill-rule="nonzero" points="344 7 341.171573 7.82842712 342 5 341.171573 2.17157288 344 3 346.828427 2.17157288 346 5 346.828427 7.82842712"></polygon>
+                <polygon id="Star-Copy" fill="#C5FF85" fill-rule="nonzero" points="116 112 113.171573 112.828427 114 110 113.171573 107.171573 116 108 118.828427 107.171573 118 110 118.828427 112.828427"></polygon>
+                <polygon id="Star-Copy-2" fill="#BD10E0" fill-rule="nonzero" points="163 182 160.171573 182.828427 161 180 160.171573 177.171573 163 178 165.828427 177.171573 165 180 165.828427 182.828427"></polygon>
+                <circle id="Oval" fill="#FFF686" fill-rule="nonzero" cx="278" cy="240" r="3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

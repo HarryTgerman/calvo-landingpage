@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="29px" viewBox="0 0 38 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.6721079,18.3652881 L37.3333333,0.0267234244 L0.0391633914,0.251353134 L17.9396541,18.3761901 C18.4092367,18.851658 19.1753514,18.856429 19.6508193,18.3868464 C19.6580052,18.3797494 19.6651019,18.3725628 19.6721079,18.3652881 Z" id="path-1"></path>
+        <path d="M37.3333333,9.36489897 L32.2776571,0.747160094 C32.0061279,0.284320422 31.5096924,-1.25330713e-14 30.9730839,-1.24344979e-14 L6.38373278,-9.32587341e-15 C5.84230064,-9.22641394e-15 5.34216649,0.289411822 5.07237752,0.758839844 L-1.8189894e-12,9.58468647 L37.3333333,9.36489897 Z" id="path-3"></path>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landingpage-Copy-4" transform="translate(-673.000000, -1487.000000)">
+            <g id="Group-3" transform="translate(673.000000, 1487.000000)">
+                <g id="Path-40" transform="translate(0.000000, 9.333333)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#3185FC" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <polygon fill="#206FDF" fill-rule="nonzero" mask="url(#mask-2)" points="11.4987902 0.071865955 18.6357243 19.7435897 26.0106164 0.071865955"></polygon>
+                </g>
+                <g id="Path-38">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" fill="#20ABF8" fill-rule="nonzero" xlink:href="#path-3"></use>
+                    <polygon fill="#6BE8FC" fill-rule="nonzero" mask="url(#mask-4)" points="6.45752229 -0.179487179 12.3275971 8.61538462 18.3967827 8.32667268e-17"></polygon>
+                    <polygon fill="#24CEF9" fill-rule="nonzero" mask="url(#mask-4)" points="19.2575223 -0.179487179 25.1275971 8.61538462 31.1967827 8.32667268e-17"></polygon>
+                </g>
+                <path d="M12.5783658,14.6075607 L17.4191206,14.6223943 C17.8876039,14.7045981 18.121982,14.7899048 18.1222549,14.8783142 C18.1225278,14.9667237 17.8888822,15.1187207 17.4213182,15.3343053 L12.5805633,15.3194717 C12.04512,15.2046523 11.7772747,15.1071645 11.7770273,15.0270085 C11.7767798,14.9468524 12.0438927,14.8070365 12.5783658,14.6075607 Z" id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" opacity="0.168224516" transform="translate(14.949641, 14.970933) rotate(70.000000) translate(-14.949641, -14.970933) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="18px" viewBox="0 0 15 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>user</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.62">
+        <g id="Landingpage-Copy-4" transform="translate(-1043.000000, -70.000000)" fill="#132840">
+            <g id="user" transform="translate(1043.000000, 70.000000)">
+                <circle id="Oval" cx="6.88235294" cy="4.76470588" r="4.76470588"></circle>
+                <path d="M7.41176471,9.52941176 C3.31836009,9.52941176 8.22871183e-16,12.9004442 0,17.0588235 L0,17.5294118 C0,17.7893105 0.207397506,18 0.463235294,18 L14.3602941,18 C14.6161319,18 14.8235294,17.7893105 14.8235294,17.5294118 L14.8235294,17.0588235 C14.8235294,12.9004442 11.5051693,9.52941176 7.41176471,9.52941176 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

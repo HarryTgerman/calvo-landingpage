@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About" transform="translate(-150.000000, -1926.000000)" fill="#3185FC">
+            <g id="Group" transform="translate(150.000000, 1926.000000)">
+                <circle id="Oval" fill-opacity="0.350147192" fill-rule="nonzero" cx="9" cy="9" r="9"></circle>
+                <path d="M8.14998312,13 C8.03061913,13 7.9162052,12.9473745 7.83182915,12.8536237 L5.1317954,9.85347191 C4.9560682,9.65822016 4.9560682,9.34171734 5.1317954,9.14646559 C5.30752259,8.95121385 5.59248866,8.95121385 5.76810335,9.14646559 L8.14998312,11.7929892 L13.2318966,6.14643881 C13.4076238,5.95118706 13.6925899,5.95118706 13.8682046,6.14643881 C14.0439318,6.34169055 14.0439318,6.65831838 13.8682046,6.85357012 L8.4681371,12.8536237 C8.38376105,12.9473745 8.26934712,13 8.14998312,13 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

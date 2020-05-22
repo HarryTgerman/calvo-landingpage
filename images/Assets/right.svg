@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="336px" height="601px" viewBox="0 0 336 601" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="601"></rect>
+        <linearGradient x1="86.1536257%" y1="50%" x2="-69.974701%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#2A3749" offset="0%"></stop>
+            <stop stop-color="#2B384A" stop-opacity="0.70533288" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landingpage" transform="translate(-1104.000000, -1769.000000)">
+            <rect fill="#F3F5F8" x="0" y="0" width="1440" height="9430"></rect>
+            <g id="Rectangle" transform="translate(0.000000, 1769.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#2B384A" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="Group-15" mask="url(#mask-2)" fill-rule="nonzero">
+                    <g transform="translate(1126.000000, -72.000000)">
+                        <rect id="Rectangle" fill="#162435" x="209" y="625" width="105" height="105"></rect>
+                        <rect id="Rectangle" fill="#162435" x="209" y="100" width="105" height="105"></rect>
+                        <rect id="Rectangle" fill="#162435" x="209" y="0" width="105" height="105"></rect>
+                        <rect id="Rectangle" fill="#162435" x="105" y="5" width="105" height="105"></rect>
+                        <rect id="Rectangle" fill="#283E58" x="209" y="520" width="105" height="105"></rect>
+                        <rect id="Rectangle-Copy-30" fill="#283E58" x="0" y="0" width="105" height="105"></rect>
+                        <rect id="Rectangle" fill="#3B5470" x="209" y="415" width="105" height="105"></rect>
+                        <rect id="Rectangle-Copy-39" fill="#3B5470" x="105" y="210" width="105" height="105"></rect>
+                        <rect id="Rectangle" fill="#556B84" x="209" y="310" width="105" height="105"></rect>
+                        <rect id="Rectangle" fill="#556B84" x="104" y="105" width="105" height="105"></rect>
+                        <rect id="Rectangle" fill="#6D8097" x="209" y="205" width="105" height="105"></rect>
+                        <rect id="Rectangle-Copy-40" fill="#6D8097" x="105" y="415" width="105" height="105"></rect>
+                        <rect id="Rectangle-Copy-38" fill="#6D8097" x="0" y="520" width="105" height="105"></rect>
+                        <rect id="Rectangle" fill="#15273B" x="104" y="520" width="105" height="105"></rect>
+                        <rect id="Rectangle" fill="#1A232E" x="104" y="625" width="105" height="105"></rect>
+                    </g>
+                </g>
+                <rect fill="url(#linearGradient-3)" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(1253.500000, 308.000000) scale(-1, 1) translate(-1253.500000, -308.000000) " x="1067" y="0" width="373" height="616"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
